@@ -1,4 +1,14 @@
 # Programming Assignment 3 | Data Science Specialization | Johns Hopkins University | Coursera
+
+### We were provided with a data of over 4000 Hospitals in diiferent states of U.S. The data sets covers almost all major U.S hospitals. In the project I was assigned to make four programs which are required for these functions :
+<ol>
+  <li>Part 1 Plot the 30-day mortality rates for heart attack </li>
+  <li>Finding the best hospital in a state for a specific disease</li>
+  <li>Ranking hospitals by outcome in a state</li>
+  <li>Ranking hospitals in all states</li>
+  </ol>
+  So, given below are the programs I've made with a proper description for each of their function.
+  
 The zip file containing the data can be downloaded here:
 [Assignment 3 Data](https://d396qusza40orc.cloudfront.net/rprog%2Fdata%2FProgAssignment3-data.zip)
 
