@@ -1,6 +1,6 @@
 # Programming Assignment 3 | Data Science Specialization | Johns Hopkins University | Coursera
 
-### We were provided with a data of over 4000 Hospitals in diiferent states of U.S. The data sets covers almost all major U.S hospitals. In the project I was assigned to make four programs which are required for these functions:
+### I was provided with a data of over 4000 Hospitals in diiferent states of U.S. The data sets covers almost all major U.S hospitals. In the project I was assigned to make four programs which are required for these functions:
 <ol>
   <li>Part 1 Plot the 30-day mortality rates for heart attack </li>
   <li>Finding the best hospital in a state for a specific disease</li>
