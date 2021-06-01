@@ -2,7 +2,7 @@
 
 ### I was provided with a data of over 4000 Hospitals in different states of U.S. The data sets covers almost all major U.S hospitals. In the project I was assigned to make four programs which are required for these functions:
 <ol>
-  <li>Part 1 Plot the 30-day mortality rates for heart attack </li>
+  <li>Plot the 30-day mortality rates for heart attack </li>
   <li>Finding the best hospital in a state for a specific disease</li>
   <li>Ranking hospitals by outcome in a state</li>
   <li>Ranking hospitals in all states</li>
